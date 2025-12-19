@@ -68,13 +68,13 @@ x              → Exit
 ## 📈 Output Waveforms
 
 ### Sine Wave
-![Sine Wave](images/sine_wave.png)
+<img src="./Sine (5K).jpg" alt="Sine Wave" width="600" title="Sine Wave Generator">
 
 ### Triangular Wave
-![Triangular Wave](images/triangular_wave.png)
+<img src="./Triangular (5K).jpg" alt="Triangular Wave" width="600" title="Triangular Wave Generator">
 
 ### Square Wave
-![Square Wave](images/square_wave.png)
+<img src="./Square (5K).jpg" alt="Square Wave" width="600" title="Square Wave Generator">
 
 📂 Create an `images/` folder and upload waveform screenshots with the above names.
 
