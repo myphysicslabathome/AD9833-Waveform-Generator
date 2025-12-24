@@ -44,6 +44,9 @@ The program allows **interactive selection of waveform type and frequency** from
 | DAT    | SDO      |
 | OUT      | CRO / Oscilloscope |
 
+### Connections
+<img src="./Circuit Diagram.jpg" alt="Circuit Connection" width="600" title="Circuit Connection">
+
 ---
 
 ## 🚀 How to Run
@@ -56,12 +59,15 @@ python AD9833_Sine_Sq_Trang.py
 
 ## 🎮 Program Usage
 
+
 ```
 s <frequency>  → Sine wave
 t <frequency>  → Triangular wave
 q <frequency>  → Square wave
 x              → Exit
 ```
+
+<img src="./Program.jpg" alt="Output" width="600" title="Output">
 
 ---
 
@@ -76,7 +82,6 @@ x              → Exit
 ### Square Wave
 <img src="./Square (5K).jpg" alt="Square Wave" width="600" title="Square Wave Generator">
 
-📂 Create an `images/` folder and upload waveform screenshots with the above names.
 
 ---
 
